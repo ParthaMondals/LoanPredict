@@ -1,5 +1,9 @@
 # LoanPredict
 A machine learning project that predicts whether a loan applicant is likely to repay a loan or default using a Decision Tree Classifier.
+
+## Live demo
+[Try LoanPredict](https://loanpredict-parth.streamlit.app/)
+
 ## Objective
 
 The objective of this project is to develop a machine learning model
@@ -58,7 +62,7 @@ loan-default-prediction/
 │
 ├── app.py
 └── README.md
-
+```
 
 ## Limitations
 
