@@ -20,7 +20,7 @@ st.set_page_config(
 
 @st.cache_resource
 def load_model():
-    return joblib.load("Load Analysis & Model\mymodel.pkl")
+    return joblib.load("Load Analysis & Model/mymodel.pkl")
 
 
 model = load_model()
